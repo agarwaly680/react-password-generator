@@ -1,0 +1,28 @@
+.container{
+  width: 500px;
+  height: 200px;
+  background: #424242;
+  margin:100px auto;
+}
+.search{
+  padding: 10px 20px;
+  width: 100%;
+  justify-content: center;
+}
+.search input{
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  font-size: 17px;
+}
+.search button{
+  padding: 8px 20px;
+  border-radius: 10px;
+  border: none;
+  margin-left: 10px;
+  font-size: 17px;
+}
+
+span{
+  color: white;
+}
